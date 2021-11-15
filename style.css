@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+  background-image: url(imagenes/font.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.cuadro-cartas {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+  align-content: center;
+  justify-content: center;
+}
+
+.cabecera h1 {
+  color: yellow;
+  text-align: center;
+}
+main h3 {
+  color: yellow;
+}
