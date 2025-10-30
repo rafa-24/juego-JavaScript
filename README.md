@@ -1,7 +1,7 @@
 # juego de memoria 👨🏽‍💻
 
 en esta ocasion Realice este reto tecnico que consiste en un juego de memoria 
-Donde le di priordad al lenguaje JavaScript, ya que pude poner muisimas cosas en practica como lo son:
+Donde le di priordad al lenguaje JavaScript, ya que pude poner muchisimas cosas en practica como lo son:
 
 *  serAttribute
 
